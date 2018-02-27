@@ -2,14 +2,14 @@
 
 ```
 allprojects {
-repositories {
-...
-maven {url'https://jitpack.io'}
-}
+    repositories {
+        ...
+        maven {url'https://jitpack.io'}
+    }
 }
 
 dependencies {
-compile 'com.github.liyuangen:SwipeBackLayout-left:1.0'
+    compile 'com.github.liyuangen:SwipeBackLayout-left:1.0'
 }
 ```
 
