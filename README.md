@@ -1,17 +1,17 @@
 [![](https://jitpack.io/v/liyuangen/SwipeBackLayout-left.svg)](https://jitpack.io/#liyuangen/SwipeBackLayout-left)
 
-	allprojects {
+	```allprojects {
 		repositories {
 			...
 			maven {url'https://jitpack.io'}
 		}
-	}
+	```}
     
 * * *    
     
-	dependencies {
+	```dependencies {
 		compile 'com.github.liyuangen:SwipeBackLayout-left:1.0'
-	}
+	}```
 
 
 # SwipeBackLayout-left
