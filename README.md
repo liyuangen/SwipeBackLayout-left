@@ -8,6 +8,7 @@ allprojects {
 	}
 }
 ```
+
 ```
 dependencies {
 	compile 'com.github.liyuangen:SwipeBackLayout-left:1.0'
