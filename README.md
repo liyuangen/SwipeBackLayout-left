@@ -1,3 +1,19 @@
+[![](https://jitpack.io/v/liyuangen/SwipeBackLayout-left.svg)](https://jitpack.io/#liyuangen/SwipeBackLayout-left)
+
+	allprojects {
+		repositories {
+			...
+			maven {url'https://jitpack.io'}
+		}
+	}
+    
+* * *    
+    
+	dependencies {
+		compile 'com.github.liyuangen:SwipeBackLayout-left:1.0'
+	}
+
+
 # SwipeBackLayout-left
 根据SwipeBackLayout自己定制的只有左滑返回的SwipeBackLayout
 注意事项：
